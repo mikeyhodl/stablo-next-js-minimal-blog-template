@@ -28,13 +28,13 @@ export default function Navbar(props) {
       href: "/archive"
     },
     {
-      label: "Github",
-      href: "https://github.com/web3templates/stablo",
+      label: "Support",
+      href: "mailto:info@lancolatech.co.ke",
       external: true
     },
     {
-      label: "Download",
-      href: "https://web3templates.com/templates/stablo-minimal-blog-website-template",
+      label: "Location",
+      href: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d627.2740674030131!2d35.269247999538734!3d0.5140838068682568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1781015c5cc8a069%3A0x2a52e9d8fd61ce31!2sLancola%20Tech%20Company%20Limited!5e0!3m2!1sen!2ske!4v1651927795448!5m2!1sen!2ske",
       external: true
     }
   ];
@@ -69,7 +69,7 @@ export default function Navbar(props) {
                         />
                       ) : (
                         <span className="block text-center">
-                          Stablo
+                        Lancolatech
                         </span>
                       )}
                     </a>
@@ -85,7 +85,7 @@ export default function Navbar(props) {
                         />
                       ) : (
                         <span className="block text-center">
-                          Stablo
+                        Lancolatech
                         </span>
                       )}
                     </a>
