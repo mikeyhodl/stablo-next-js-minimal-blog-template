@@ -34,7 +34,7 @@ export default function Navbar(props) {
     },
     {
       label: "Location",
-      href: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d627.2740674030131!2d35.269247999538734!3d0.5140838068682568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1781015c5cc8a069%3A0x2a52e9d8fd61ce31!2sLancola%20Tech%20Company%20Limited!5e0!3m2!1sen!2ske!4v1651927795448!5m2!1sen!2ske",
+      href: "https://maps.google.com/maps/dir//Lancolatech+Company+Limited+G77H%2BP8J+Grand+Pri+House,+Nandi+Rd+Eldoret/@0.5142619,35.2782318,19z/data=!4m5!4m4!1m0!1m2!1m1!1s0x1781015c5cc8a069:0x2a52e9d8fd61ce31",
       external: true
     }
   ];
