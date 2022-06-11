@@ -34,7 +34,7 @@ export default function Navbar(props) {
     },
     {
       label: "Location",
-      href: "https://maps.google.com/maps/dir//Lancolatech+Company+Limited+G77H%2BP8J+Grand+Pri+House,+Nandi+Rd+Eldoret/@0.5142619,35.2782318,19z/data=!4m5!4m4!1m0!1m2!1m1!1s0x1781015c5cc8a069:0x2a52e9d8fd61ce31",
+      href: "https://goo.gl/maps/2drqmWq27ptxHjd29",
       external: true
     }
   ];
