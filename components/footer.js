@@ -8,11 +8,11 @@ export default function Footer(props) {
   return (
     <Container className="mt-10 border-t border-gray-100 dark:border-gray-800">
       <div className="text-sm text-center">
-        Copyright © {new Date().getFullYear()} {props?.copyright}. All
-        rights reserved.
+        © {new Date().getFullYear()}
+        {/* {props?.copyright} */}
       </div>
       <div className="mt-1 text-sm text-center text-gray-500 dark:text-gray-600">
-        Made by{" "}
+        {" "}
         {/*  // ** 🙏  Can I ask you a favor? 🙏 **
             // Please do not remove the below link.
            // It helps us to grow & continue our work. Thank you.
