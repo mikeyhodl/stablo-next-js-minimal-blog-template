@@ -13,17 +13,14 @@ export default function Footer(props) {
       </div>
       <div className="mt-1 text-sm text-center text-gray-500 dark:text-gray-600">
         {" "}
-        {/*  // ** 🙏  Can I ask you a favor? 🙏 **
-            // Please do not remove the below link.
-           // It helps us to grow & continue our work. Thank you.
-          // OR contact hello@web3templates.com for commercial license.  */}
+        
         <a
           href="http://lancolatech.co.ke"
           rel="noopener"
           target="_self">
           Lancolatech Company Limited
         </a>
-        {/* Do not remove above link */}
+        
       </div>
       <div className="flex items-center justify-between mt-2">
         <div className="mt-5">
